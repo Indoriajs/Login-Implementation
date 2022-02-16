@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:elevation="2dp"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/userName_TV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/default_uName"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="80sp"
+        android:layout_marginStart="30sp"/>
+
+    <TextView
+        android:id="@+id/contact_TV"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:textSize="20sp"
+        android:layout_marginTop="54sp"
+        android:layout_marginStart="30sp"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/mark_attendance_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="54sp"
+        android:text="@string/mark_attendance_text"
+        android:textAllCaps="false"
+        android:enabled="false"/>
+
+    <TextView
+        android:id="@+id/lastPing_TV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="54sp"
+        android:layout_marginStart="30sp"
+        android:textColor="@color/light_green"/>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

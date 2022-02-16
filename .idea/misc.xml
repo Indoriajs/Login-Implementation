@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Study/ProjectAndCode/Attendance/app/src/main/res/drawable/blue_gradient.xml" value="0.1945" />
+        <entry key="..\:/Study/ProjectAndCode/Attendance/app/src/main/res/drawable/purple_gradient.xml" value="0.214" />
+        <entry key="..\:/Study/ProjectAndCode/Attendance/app/src/main/res/drawable/test.xml" value="0.1945" />
+        <entry key="..\:/Study/ProjectAndCode/Attendance/app/src/main/res/layout-v28/fragment_user_info.xml" value="0.20677083333333332" />
+        <entry key="..\:/Study/ProjectAndCode/Attendance/app/src/main/res/layout/activity_home_screen.xml" value="0.25" />
+        <entry key="..\:/Study/ProjectAndCode/Attendance/app/src/main/res/layout/activity_startup.xml" value="0.22" />
+        <entry key="..\:/Study/ProjectAndCode/Attendance/app/src/main/res/layout/fragment_login_type.xml" value="0.25" />
+        <entry key="..\:/Study/ProjectAndCode/Attendance/app/src/main/res/layout/fragment_login_type_email.xml" value="0.22" />
+        <entry key="..\:/Study/ProjectAndCode/Attendance/app/src/main/res/layout/fragment_login_type_phone.xml" value="0.25" />
+        <entry key="..\:/Study/ProjectAndCode/Attendance/app/src/main/res/layout/fragment_navigation.xml" value="0.17074275362318841" />
+        <entry key="..\:/Study/ProjectAndCode/Attendance/app/src/main/res/layout/fragment_user_info.xml" value="0.25" />
+        <entry key="..\:/Study/ProjectAndCode/Attendance/app/src/main/res/layout/layout_start.xml" value="0.22" />
+        <entry key="..\:/Study/ProjectAndCode/Attendance/app/src/main/res/layout/layout_user_page.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <!-- Start Activity -->
+    <string name="wAttendance">Log in to \nyour account</string>
+    <string name="uName">Name</string>
+    <string name="fName">First &amp; Last Name</string>
+        <!-- Phone Login -->
+        <string name="contactTV">Contact No.</string>
+        <string name="contactHint">9876543210</string>
+
+        <!-- Email Login -->
+        <string name="emailIdTV">Email ID</string>
+        <string name="emailHint">abc@email.com</string>
+        <string name="passwordHint">******</string>
+        <string name="passwordTV">Password</string>
+        <string name="signInBtn_Text">Sign In</string>
+
+    <!-- User Page -->
+        <!--User Info -->
+        <string name="default_uName">Habba Boi</string>
+        <string name="month_attendance">Attendance % for: mmm/yyyy</string>
+        <string name="mark_attendance_text">Mark Attendance</string>
+        <string name="get_attendance_text">Get Attendance</string>
+
+        <!--Navigation -->
+        <string name="logoutText">Log Out</string>
+
+</resources>

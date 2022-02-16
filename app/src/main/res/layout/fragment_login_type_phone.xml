@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="54sp"
+        android:text="@string/contactTV"
+        android:textStyle="bold"/>
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/contact_etField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="54sp"
+        android:inputType="number"
+        android:hint="@string/contactHint" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="54sp"
+        android:text="@string/uName"
+        android:textStyle="bold" />
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/uName_TV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/fName"
+        android:inputType="textPersonName"
+        android:minHeight="54sp" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="54sp"
+        android:text="@string/passwordTV"
+        android:textStyle="bold"/>
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/password_etField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="54sp"
+        android:inputType="textPassword"
+        android:hint="@string/passwordHint"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/signIn_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/signInBtn_Text"
+        android:layout_gravity="center"
+        android:layout_marginTop="54sp" />
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
